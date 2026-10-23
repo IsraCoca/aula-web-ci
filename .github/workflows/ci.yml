@@ -41,4 +41,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/IsraCoca/aula-web-ci:latest
+          tags: ghcr.io/isracoca/aula-web-ci:latest
